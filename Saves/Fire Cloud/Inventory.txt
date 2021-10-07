@@ -1,0 +1,26 @@
+name: Inventory
+image: 
+font_color: 
+max_capacity: 
+isCarried: true
+items: 
+Cold iron dagger, 1, 1, 
+Short sword, 2, 3, 
+Long Bow, 2, 1, 
+Arrow, 0.05, 100, 
+Dart, 0.25, 10, 
+Leather armor, 10, 1, 
+Quiver, 1, 5, 
+Backpack, 5, 1, 
+Wand, 1, 1, Investiture of ice... cream (4copper for a ice cream)
+Wands?, 1, 11, 
+Astral Projection Scroll, 0, 1, 
+Crown of Stats Scroll, 0, 1, 
+Unidentified Scroll, 0, 1, Evard's Black Tentacles
+Crowbar, 5, 1, 
+Fine clothes, 6, 1, 
+CP, 0.02, 0, 
+SP, 0.02, 250, 
+EP, 0.02, 0, 
+GP, 0.02, 20, 
+PP, 0.02, 0, 

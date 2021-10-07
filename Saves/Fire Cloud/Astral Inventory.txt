@@ -1,0 +1,37 @@
+Cold iron dagger, 1, 1, 
+Short sword, 2, 3, 
++1 Large Mace 4, 1, 
+Long Bow, 2, 1, 
+Arrow, 0.05, 98, 
++4 Duskwood and Cold Steel Crossbow, 30, 1, Drow style from the Astral
+Bolt, 0.075, 99, 
+Sling, 0, 1, 
+Backpack, 5, 1, 
+Wand, 1, 1, Investiture of ice... cream (4copper for a ice cream)
+Wands?, 1, 11, 
+Unidentified Scroll, 0, 1, Evard's Black Tentacles
+Sending Stone, 0, 1, Sinphia has the other one
+Studded Leather Armor, 13, 1, 
+Duskwood Tedate of Absorbing Recuperation, 20, 1, Drow style
+Duskwood Shield, 3, 1, Drow style
+Quiver, 1, 10, 
+Fine Clothes, 6, 1, 
+Round Glass Bottle, 2, 30, 5with red puffball fungus spores
+Acid Vial, 1, 1, 
+Alchemist's Fire Flask, 1, 1, 
+Barrel, 30, 2, 
+Barrel of oil, 70, 1, 
+Caltrop, 0.1, 60, 
+Caltrop Nuts, 0.1, 300, 
+Harness, 3, 1, 
+Sheet full of Abyssal Black Grass, 0, 1, 
+50ft steel heavy duty building attachment hooked cable, 50, 1, 
+Spiritwood Long Bow, 2, 1, for Faemys
+Crowbar, 5, 1, 
+Waterskin, 1, 5, Empty
+Waterskin, 5, 1, Full of adaru poison
+CP, 0.02, 0, 
+SP, 0.02, 4, 
+EP, 0.02, 0, 
+GP, 0.02, 3174, 
+PP, 0.02, 0, 
